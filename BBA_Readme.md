@@ -1,4 +1,4 @@
-Detailed Information about BBA Emulation    
+Detailed Information about BBA Emulation.
 
 Nintendont supports BBA Emulation in the following titles:  
 Mario Kart: Double Dash!!  
@@ -9,6 +9,7 @@ PSO Episode III
 Homeland    
 
 It works just like a real BBA and works from both a USB LAN adapter and over WLAN.  
+
 To enable BBA Emulation, simply go into nintendonts settings and enable it.  
 If you are on a Wii, you can also switch the Network Profile as configued in your Wii Settings used for it.  
 This can be useful if the profile cannot be selected as a default in the Wii Settings when it has no internet access and you just need LAN acccess.  
